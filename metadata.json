@@ -1,0 +1,12 @@
+{
+  "name": "Mara - Android AI Assistant",
+  "description": "Smart Indian AI voice assistant with full Android device access and system controls.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
